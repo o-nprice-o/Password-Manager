@@ -30,15 +30,15 @@ If you don’t have a requirements.txt, just install ttkthemes manually:
 ```
    pip install ttkthemes
 ```
-Usage
+## Usage
 
 Run the main application file:
 ```
 python passwordmngr.py
 ```
 You can select your preferred theme from the dropdown menu in the application.
-##
-Contributing
+
+## Contributing
 
 Feel free to fork the project and submit pull requests. Bug reports and feature requests are welcome!
 License
