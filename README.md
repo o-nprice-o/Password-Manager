@@ -23,8 +23,8 @@ python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 Install dependencies:
-
-pip install -r requirements.txt
+##
+   pip install -r requirements.txt
 
 If you don’t have a requirements.txt, just install ttkthemes manually:
 
