@@ -23,20 +23,21 @@ python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 Install dependencies:
-'''
+```
    pip install -r requirements.txt
-'''
+```
 If you don’t have a requirements.txt, just install ttkthemes manually:
-'''
+```
    pip install ttkthemes
-'''
+```
 Usage
 
 Run the main application file:
-
+```
 python passwordmngr.py
-
+```
 You can select your preferred theme from the dropdown menu in the application.
+##
 Contributing
 
 Feel free to fork the project and submit pull requests. Bug reports and feature requests are welcome!
